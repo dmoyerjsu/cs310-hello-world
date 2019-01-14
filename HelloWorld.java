@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Damien Moyer
  */
 
 public class HelloWorld {
